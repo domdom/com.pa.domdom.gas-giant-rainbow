@@ -1,0 +1,22 @@
+{
+    "identifier": "com.pa.domdom.gas-giant-rainbow",
+    "context": "client",
+    "display_name": "Gas Giant Rainbow",
+    "description": "Rainbow Gas Giant.",
+    "author": "dom314",
+    "forum": "https://forums.planetaryannihilation.com/threads/doms-random-mod-thread.73579/",
+    "icon": "https://github.com/domdom/com.pa.domdom.gas-giant-rainbow/raw/main/icon.png",
+    "product": [
+      "Titans",
+      "Classic"
+    ],
+    "category": [
+      "in-game",
+      "effects"
+    ],
+    "version": "1.0.0",
+    "priority": 100,
+    "build": "115958",
+    "date": "2022-01-24",
+    "signature": " "
+  }
